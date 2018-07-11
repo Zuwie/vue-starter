@@ -1,11 +1,11 @@
-# vue-starter
+# vue-starter\
 A super lightweight vue starter kit
 
-#install
+#install\
 npm install
 
-#run development server
+#run development server\
 npm run dev
 
-#build a production bundle
+#build a production bundle\
 npm run build
